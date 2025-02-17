@@ -24,7 +24,7 @@ Ensure you have **Node.js** and **npm** installed.
 
 ### Clone the Repository:
 ```sh
-git clone https://github.com/yourusername/medcare.git
+git clone https://github.com/KhushiPandey8/medcare.git
 cd medcare
 ```
 
