@@ -74,6 +74,6 @@ We welcome contributions! Follow these steps to contribute:
 This project is licensed under the **ISC License**.
 
 ## Author ✨
-Developed by **Khushi Pandey**.
+Developed by **Khushi Pandey**..
 ---
 Feel free to contribute and improve MedCare! 🚑Addeed content in readme.md
