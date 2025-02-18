@@ -75,6 +75,8 @@ This project is licensed under the **ISC License**.
 
 ## Author ✨
 Developed by **Khushi Pandey**.
+Updated file with new changes
 
+Co-authored-by: Princy Mishra <pam346408@gmail.com>
 ---
 Feel free to contribute and improve MedCare! 🚑Addeed content in readme.md
